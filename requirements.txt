@@ -1,0 +1,9 @@
+pandas==3.0.1
+numpy==2.4.3
+matplotlib
+seaborn==0.13.2
+phik==0.12.5
+scikit-learn==1.8.0
+joblib==1.5.3
+jupyter==1.1.1
+notebook==7.5.5
